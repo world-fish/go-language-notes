@@ -25,7 +25,7 @@ Go 语言的 For 循环有 3 种形式，只有其中的一种使用分号。
 
 >`for { }`
 
-for 循环的 range 格式可以对 slice、map、数组、字符串等进行迭代循环。格式如下：
+for 循环的 range 格式可以对 slice、map、数组、字符串等进行迭代循环。格式如下： 
 
 ```go
 for key, value := range oldMap {
